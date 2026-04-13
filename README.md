@@ -161,7 +161,7 @@ Todos os requisitos propostos foram implementados com sucesso.
 
 - [Documentação Oficial do Spring Boot](https://docs.spring.io/spring-boot/index.html)
 - [API ViaCEP](https://viacep.com.br) — Para consulta de endereços.
-- [MDN Web Docs](https://developer.mozilla.org) — Para referências de JavaScript e requisições Fetch.
+- [MDN Web Docs - JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ---
 

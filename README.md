@@ -15,7 +15,7 @@ A solução foi desenvolvida utilizando uma arquitetura monolítica baseada no p
 
 Abaixo está o Diagrama de Entidade-Relacionamento (DER) que ilustra a estrutura das tabelas e seus relacionamentos:
 
-![Diagrama do Banco de Dados](entregaveis/modelo_banco.png)
+![Diagrama do Banco de Dados](./entregaveis/modelagem_do_banco_de_dados.png)
 
 ## 📂 File Tree
 
@@ -105,7 +105,7 @@ spring.jpa.show-sql=true
 spring.jpa.properties.hibernate.format_sql=true
 ```
 
-> **Observação:** Coloque o seu usuário e senha no lugar dos templates que estão em letras maiúsculas. Depois disso, crie o banco de dados `comercio_sa` no seu pgAdmin ou terminal do PostgreSQL antes de rodar a aplicação pela primeira vez. O Script para criação e população do banco de dados está na raiz do projeto, no arquivo [SCRIPT.sql](./script.sql).
+> **Observação:** Coloque o seu usuário e senha no lugar dos templates que estão em letras maiúsculas. Depois disso, crie o banco de dados `comercio_sa` no seu pgAdmin ou terminal do PostgreSQL antes de rodar a aplicação pela primeira vez. O Script para criação e população do banco de dados está na raiz do projeto, no arquivo [SCRIPT.sql](./SCRIPT.sql).
 
 **3. Execute a aplicação:**
 
@@ -159,7 +159,7 @@ Todos os requisitos propostos foram implementados com sucesso.
 
 ## 📚 Referências
 
-- [Documentação Oficial do Spring Boot]([https://spring.io/projects/spring-boot](https://docs.spring.io/spring-boot/)) 
+- [Documentação Oficial do Spring Boot](https://docs.spring.io/spring-boot/index.html)
 - [API ViaCEP](https://viacep.com.br) — Para consulta de endereços.
 - [MDN Web Docs](https://developer.mozilla.org) — Para referências de JavaScript e requisições Fetch.
 

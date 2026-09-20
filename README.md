@@ -105,7 +105,7 @@ spring.jpa.show-sql=true
 spring.jpa.properties.hibernate.format_sql=true
 ```
 
-> **Observação:** Coloque o seu usuário e senha no lugar dos templates que estão em letras maiúsculas. Depois disso, crie o banco de dados `comercio_sa` no seu pgAdmin ou terminal do PostgreSQL antes de rodar a aplicação pela primeira vez. O Script para criação e população do banco de dados está na raiz do projeto, no arquivo [SCRIPT.sql](./SCRIPT.sql).
+> **Observação:** Coloque o seu usuário e senha no lugar dos placeholders que estão em letras maiúsculas. Depois disso, crie o banco de dados `comercio_sa` no seu pgAdmin ou terminal do PostgreSQL antes de rodar a aplicação pela primeira vez. O Script para criação e população do banco de dados está na raiz do projeto, no arquivo [SCRIPT.sql](./SCRIPT.sql).
 
 **3. Execute a aplicação:**
 
